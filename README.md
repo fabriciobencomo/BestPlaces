@@ -11,7 +11,7 @@ Bestplaces is website where you can publish and search interest places in Venezu
 - Laravel
 - nodeJs
 - Npm
-- Create a database with the name ShareRecipes(mysql)
+- Create a database with the name bestplaces(mysql)
 
 # installation
 
