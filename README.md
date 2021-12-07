@@ -2,7 +2,7 @@
 
 # Description 
 
-SharesRecipes is forum where you can create, search, save and like recipes. The goal of the website is create a communnity who love the food and cook. there are many categories to choose what you gonna eat. so what are you waiting for?, Start to share your Recipes.
+Bestplaces is website where you can publish and search interest places in Venezuela. The goal of the page is that people can search and find new places near their area and that establishments become known
 
 # What you need
 
@@ -20,6 +20,9 @@ SharesRecipes is forum where you can create, search, save and like recipes. The 
 
 -composer
 `composer install`
+
+-database
+`php artisan migrate`
 
 # How can you watch it?
 
